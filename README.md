@@ -1,0 +1,2 @@
+# anotherdjangoblog
+Just Practicing Django
